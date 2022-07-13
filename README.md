@@ -16,4 +16,4 @@
 	</a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serhatkildaci&show_icons=true&theme=dark&hide_border=true&locale=en" alt="serhat" /></p>
+<p align="center">&nbsp;<img align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serhatkildaci)](https://github.com/anuraghazra/github-readme-stats)" alt="serhat" /></p>
