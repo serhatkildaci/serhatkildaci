@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serhat</h1> 
 
 - 👨🏻‍🎓 I'm Software Engineering Student at Istanbul Aydin University. 
-- 🌱 I’m currently learning Swift, UIKit and working on iOS projects. I will learn SwiftUI after UIKit.
+- 🌱 I’m currently learning HTML, CSS and JS and working on FrontEnd Projects. I am publishing projects on my portfolio page!
 
 
 ## 📫 How to reach me:
