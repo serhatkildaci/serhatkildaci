@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Serhat</h1> 
 
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://serhatkildaci.me/)
-
 - 👨🏻‍🎓 I'm Software Engineering Student at Istanbul Aydin University. 
 - 🌱 I’m currently learning Swift, UIKit and working on iOS projects. I will learn SwiftUI after UIKit.
 
 
-<h3>📫 How to reach me:</h3>
+## 📫 How to reach me:
 
 <p align="left">
 		<a href="https://www.twitter.com/sreaht/" target="_blank">
@@ -22,4 +18,5 @@
 	</a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serhatkildaci&show_icons=true&count_private=true&theme=radical)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://serhatkildaci.me/)
