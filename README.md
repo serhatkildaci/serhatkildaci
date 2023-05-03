@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serhat</h1> 
 
 - 👨🏻‍🎓 I'm Software Engineering Student at Istanbul Aydin University. 
-- 🌱 I’m currently learning HTML, CSS and JS and working on FrontEnd Projects. I am publishing projects on my portfolio page!
+- 🌱 I’m currently learning Unity and working on Game Projects.
 
 
 ## 📫 How to reach me:
@@ -19,4 +19,4 @@
 </p>
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://serhatkildaci.me/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://boebyn.itch.io/)
