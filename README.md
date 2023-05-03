@@ -8,7 +8,7 @@
 
 <p align="left">
 		<a href="https://www.twitter.com/sreaht/" target="_blank">
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter" height="40" width="40" />
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter" height="40" width="40" />
 	</a>
     <a href="https://www.linkedin.com/in/serhatkildaci/" target="_blank">
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="linkedin" height="40" width="40" />
