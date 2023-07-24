@@ -19,4 +19,4 @@
 </p>
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://boebyn.itch.io/](https://www.taser.dev/)https://www.taser.dev/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://taser.dev/)
