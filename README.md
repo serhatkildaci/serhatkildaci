@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Serhat</h1> 
 
-- 👨🏻‍🎓 I'm Software Engineering Student at Istanbul Aydin University. 
-- 🌱 I’m currently learning Unity and working on Game Projects.
+- 👨🏻‍🎓 Software Engineering Student at Istanbul Aydin University. 
+- 👥 Co - Founder at <a href="https://www.linkedin.com/company/tricadestudios/" target="_blank">Tricade Studios</a>
+- 🚀 Working on new projects
+
 
 
 ## 📫 How to reach me:
@@ -18,5 +20,4 @@
 	</a>
 </p>
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://taser.dev/)
+
