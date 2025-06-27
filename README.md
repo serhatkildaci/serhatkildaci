@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serhat</h1> 
 
 - 👨🏻‍🎓 Software Engineering Student at Istanbul Aydin University. 
-- 👥 Game Developer & Co - Founder <a href="https://www.linkedin.com/company/tricadestudios/" target="_blank">Tricade Studios</a>
 - 🚀 Working on new projects
 
 ## 📫 How to reach me:
